@@ -12,26 +12,26 @@ Team members:
  Nrmeen araby kamel  
  
 # Doctor's privileges’:
-⦁ Add available time
-⦁ Edit available time
-⦁ Remove available time
-⦁ Display available time
-⦁ View patients with appointments
-⦁ Edit profile
-⦁ View profile
-⦁ Log out
+⦁ Add available time 
+⦁ Edit available time 
+⦁ Remove available time 
+⦁ Display available time 
+⦁ View patients with appointments 
+⦁ Edit profile 
+⦁ View profile 
+⦁ Log out 
 # Patient's privileges’:
-⦁ Booking an appointment by certain day name or date 
-⦁ Searching for a doctor by username
-⦁ View appointments
-⦁ Edit appointments
-⦁ Delete appointments
-⦁ View appointments
-⦁ Clear history
-⦁ Edit and View profile
-⦁ Rating the doctor
-⦁ Rating the system
-⦁ Log out
+⦁ Booking an appointment by certain day name or date  
+⦁ Searching for a doctor by username 
+⦁ View appointments 
+⦁ Edit appointments 
+⦁ Delete appointments 
+⦁ View appointments 
+⦁ Clear history 
+⦁ Edit and View profile 
+⦁ Rating the doctor 
+⦁ Rating the system 
+⦁ Log out 
 
 # Our prominent features:
 
