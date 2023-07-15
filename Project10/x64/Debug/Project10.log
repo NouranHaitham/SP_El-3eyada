@@ -1,0 +1,26 @@
+﻿  Source.cpp
+C:\Users\NOURAN\source\repos\Project10\doctor.h(216,6): warning C4101: 'choice': unreferenced local variable
+C:\Users\NOURAN\source\repos\Project10\doctor.h(405,7): warning C4101: 'work_day': unreferenced local variable
+C:\Users\NOURAN\source\repos\Project10\doctor.h(419,17): warning C4101: 'exist': unreferenced local variable
+C:\Users\NOURAN\source\repos\Project10\doctor.h(604,8): warning C4101: 'work_day': unreferenced local variable
+C:\Users\NOURAN\source\repos\Project10\doctor.h(802,47): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\NOURAN\source\repos\Project10\doctor.h(960,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\NOURAN\source\repos\Project10\doctor.h(1063,6): warning C4101: 'num': unreferenced local variable
+C:\Users\NOURAN\source\repos\Project10\doctor.h(1529,24): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\NOURAN\source\repos\Project10\doctor.h(1861,19): warning C4101: 'day_choice': unreferenced local variable
+C:\Users\NOURAN\source\repos\Project10\patient.h(96,56): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\NOURAN\source\repos\Project10\patient.h(387,34): warning C4101: 'display_answer': unreferenced local variable
+C:\Users\NOURAN\source\repos\Project10\patient.h(386,10): warning C4101: 'confirmation_Answer': unreferenced local variable
+C:\Users\NOURAN\source\repos\Project10\patient.h(954,18): warning C4101: 'k': unreferenced local variable
+C:\Users\NOURAN\source\repos\Project10\patient.h(1146,17): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\NOURAN\source\repos\Project10\patient.h(1508,12): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\NOURAN\source\repos\Project10\patient.h(1581,19): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\NOURAN\source\repos\Project10\patient.h(1581,22): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\NOURAN\source\repos\Project10\Source.cpp(171,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\NOURAN\source\repos\Project10\Source.cpp(59,67): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\NOURAN\source\repos\Project10\Source.cpp(59,67): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\NOURAN\source\repos\Project10\patient.h(257): warning C4715: 'Patient_Modes': not all control paths return a value
+C:\Users\NOURAN\source\repos\Project10\patient.h(1038): warning C4715: 'dayy': not all control paths return a value
+C:\Users\NOURAN\source\repos\Project10\patient.h(1031): warning C4715: 'book_an_appointment': not all control paths return a value
+C:\Users\NOURAN\source\repos\Project10\patient.h(1519): warning C4715: 'cin_daynum': not all control paths return a value
+  Project10.vcxproj -> C:\Users\NOURAN\source\repos\Project10\x64\Debug\Project10.exe
