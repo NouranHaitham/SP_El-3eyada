@@ -1,5 +1,4 @@
 #pragma once
-
 bool Doctor_Modes(doc doctor[], int current_doctor, pat patient[], int  last_patient_array, int session[])
 {
 	int choiceChosen = input(1, 9);
@@ -1368,7 +1367,7 @@ bool search_doc(doc doctor[], int& current_doc, string username, string pass)
 			current_doc = i;
 			if (pass == doctor[i].password) return 1;
 			else {
-				pass = doctor[i].password; return 0;
+				doctor[i].password = pass; return 0;
 			}
 		}
 	}
