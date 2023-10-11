@@ -3,13 +3,13 @@
 ## Project name: VEZEETA SYSTEM
 ## Team members:
 
- Nouran ahmed samir     ---> username: Nouran79     
- Mariam gharib menifii    ---> username: mariamgharib553  
- Nouran haitham othman  ---> username: niro12-coder  
- Mohanad mahmoud mohamed  
- Ahdab osama mohamed  
- Basel mohamed abdelfatah  
- Nrmeen araby kamel  
+ Nouran Ahmed Samir     ---> username: Nouran79     
+ Mariam Gharib Menifii    ---> username: mariamgharib553  
+ Nouran Haitham Othman  ---> username: niro12-coder  
+ Mohannad Mahmoud Mohamed  ---> username: Mohannadms
+ Ahdab Osama Mohamed  
+ Basel Mohamed Abdelfatah  
+ Nrmeen Araby Kamel  
  
 # Doctor's privileges’:
 ⦁ Add available time 
