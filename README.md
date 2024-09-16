@@ -1,45 +1,57 @@
-# Sp_project 2023
+# SP_El-3eyada 🏥💬
 
-## Project name: VEZEETA SYSTEM
-## Team members:
+## Description
 
- Nouran Ahmed Samir     ---> username: Nouran79     
- Mariam Gharib Menifii    ---> username: mariamgharib553  
- Nouran Haitham Othman  ---> username: niro12-coder  
- Mohannad Mahmoud Mohamed  ---> username: Mohannadms
- Ahdab Osama Mohamed  
- Basel Mohamed Abdelfatah  
- Nrmeen Araby Kamel  
- 
-# Doctor's privileges’:
-⦁ Add available time 
-⦁ Edit available time 
-⦁ Remove available time 
-⦁ Display available time 
-⦁ View patients with appointments 
-⦁ Edit profile 
-⦁ View profile 
-⦁ Log out 
-# Patient's privileges’:
-⦁ Booking an appointment by certain day name or date  
-⦁ Searching for a doctor by username 
-⦁ View appointments 
-⦁ Edit appointments 
-⦁ Delete appointments 
-⦁ View appointments 
-⦁ Clear history 
-⦁ Edit and View profile 
-⦁ Rating the doctor 
-⦁ Rating the system 
-⦁ Log out 
+Welcome to **SP_El-3eyada**! Inspired by the real-life app VEZEETA, this project aims to make your doctor's appointment process smooth and efficient. Whether you're a doctor managing your schedule or a patient booking an appointment, we've got you covered! 😄
 
-# Our prominent features:
+## Doctor's Privileges 🩺
 
-We are having an input function that tests if the input is valid or not instead of validating the input every time we needed an input from the user.
-The Doctor adds his available times into the system that include information (day name, starting and ending working hours, his breaks....etc.), the doctor is allowed to remove his times or edit any specific aspect in his working days, in response our system notifies him if his actions will affect the patients that booked at this time, as well as checks if his data is valid before saving it.    
-As a patient you may book an appointment through several ways such as choosing a certain day name or date to book at.
-For example if the patient wants a certain date to book at, the system asks him to type 
-the date, (surely) if it's a previous/invalid date the system notifies the user.
-After the user enters the desired date for booking, the system converts it to its corresponding day name. So for example if the users desired date is "12/3/2024" the system knows that its corresponding day is Tuesday.
-By this method we are having a really optimized storage (memory) as we are not having memory space telling us that "12/3/2024" is Tuesday, instead we are having a function that calculates it for us. So the only way to allocate an appointment in memory is to book it!  ✨🙂
-There's another way to book an appointment which is by typing the desired doctor's username, our program displays (instantaneously/without clicking the enter button) the possible desired doctors.
+- **Add Available Time**: Set your working hours and breaks.
+- **Edit Available Time**: Adjust your schedule as needed.
+- **Remove Available Time**: Delete outdated time slots.
+- **Display Available Time**: View your schedule.
+- **View Patients with Appointments**: See who’s booked with you.
+- **Edit Profile**: Update your details.
+- **View Profile**: Check out your profile info.
+- **Log Out**: Exit the system.
+
+## Patient's Privileges 👩‍⚕️👨‍⚕️
+
+- **Book Appointment**: Choose a date or day to book.
+- **Search for a Doctor**: Find doctors by username.
+- **View Appointments**: See your upcoming appointments.
+- **Edit Appointments**: Change your appointment details.
+- **Delete Appointments**: Remove appointments if needed.
+- **Clear History**: Erase your booking history.
+- **Edit and View Profile**: Update your personal information.
+- **Rate the Doctor**: Give feedback on your visit.
+- **Rate the System**: Share your thoughts on our app.
+- **Log Out**: Sign out of your account.
+
+## Key Features ✨
+
+- **Smart Input Function**: Validates input once, saving you from repetitive checks. 📋✅
+- **Calendar Date Function**: Converts dates into their corresponding weekdays using neat calculations. 🗓️🔄
+
+## How It Works
+
+1. **For Doctors**:
+   - Add, edit, or remove your available times with ease. 🕒✏️
+   - The system will alert you if changes affect patient bookings and ensure your data is valid before saving. 🛠️
+
+2. **For Patients**:
+   - **Book an Appointment**: Select a date or day. The system handles date-to-day conversion so you don’t have to. 🗓️✨
+   - **Search for a Doctor**: Type in a username to find available doctors instantly. 🔍👨‍⚕️
+   - **Rate Your Experience**: Provide feedback on your doctor and the system. ⭐️
+
+## Built With 🛠️
+
+- **C++**: Utilizing arrays, recursion, structures, and functions (passing by value & reference).
+- 
+## Installation and Setup
+
+1. **Clone the Repository**: `git clone <repo-url>`
+2. **Compile the Code**: Use your preferred C++ compiler.
+3. **Run the Application**: Follow instructions in the repository for running the project.
+
+Thanks for checking out **SP_El-3eyada**! We hope it makes your appointment scheduling easier. Feel free to reach out with any questions or feedback! 😊👍
