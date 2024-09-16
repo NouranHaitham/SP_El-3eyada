@@ -47,7 +47,7 @@ Welcome to **SP_El-3eyada**! Inspired by the real-life app VEZEETA, this project
 ## Built With 🛠️
 
 - **C++**: Utilizing arrays, recursion, structures, and functions (passing by value & reference).
-- 
+  
 ## Installation and Setup
 
 1. **Clone the Repository**: `git clone <repo-url>`
